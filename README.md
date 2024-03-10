@@ -1,4 +1,4 @@
-## Sử dụng và Cài đặt Work Timer App
+## CODE XÀM :)
 
 Work Timer App là một ứng dụng đơn giản được viết bằng Python sử dụng thư viện tkinter để tạo giao diện người dùng đồ họa. Ứng dụng này giúp bạn theo dõi thời gian làm việc của mình trong ngày và hiển thị thời gian hiện tại cũng như thời gian đã trôi qua khi bạn bắt đầu tính giờ.
 
