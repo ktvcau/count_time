@@ -52,9 +52,11 @@ class WorkTimerApp:
 
     def get_time_period(self):
         current_hour = datetime.now().hour
-        if 6 <= current_hour < 12:
+        if 1 <= current_hour < 11:
             return "Buổi sáng"
-        elif 12 <= current_hour < 18:
+        elif 11 <= current_hour < 13:
+            return "Buổi trưa"
+        elif 13 <= current_hour < 18:
             return "Buổi chiều"
         elif 18 <= current_hour < 22:
             return "Buổi tối"
